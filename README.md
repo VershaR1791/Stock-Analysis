@@ -39,5 +39,5 @@ Overall **'ENPH'** performed well in both the years and Steve should recommend h
 
 ### Advantages and disadvantages of the original and refactored VBA script
 - The time taken to run the original script is more than refactored code.
-- The script length is shorter in the original VBA script in comparison to the refactored code.
+- The script length is relatively shorter in the original VBA script in comparison to the refactored code.
 - The result doesn't change with the refactored code. For eg. it would have been helpful to add more features or functionalities such as YoY improvement in the return for each company.
