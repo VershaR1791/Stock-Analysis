@@ -1,21 +1,21 @@
 # Stock-Analysis
-Performing analysis on Stock data to find top performing companies by refactoring the code
+Performing analysis on Stock data to find top performing companies by refactoring the VBA script
 ## Overview of Project
 Steve is a financial analyst who has started a new role in a finance company and would like to analyze stock data for different alternative energy companies. He would want to analyze the data to recommend to his parents on which company's stocks they should invest in, based on the past performance. The analysis will include refactoring the exisiting code to make it more efficient. 
 ### Purpose
 The purpose of this analysis is to automate the large excel data through the ease of a click of a button, for Steve to be able to review the return for all the stocks. The data available is for different alternative energy companies and corresponding information regarding the price and volume their stocks closed at. This analysis will -
 - help summarize the return and total daily volume from the company stocks for years 2017 and 2018
-- determine the time to execute the code before and after refactoring the code.
+- determine the time to execute the code before and after refactoring the VBA script.
 
 ## Analysis
-The refactoring code includes creating a tickerIndex to loop through all the list of companies repeatedly without specifying the name of the company. By creating the tickerIndex we are restricting the code to toggle between the sheets in the workbook multiple times. In the refactored code the code is optimized by storing the values within arrays and calling them back at the end to print the results.
+Refactoring the code includes creating a *'tickerIndex'* to loop through all the list of companies repeatedly without specifying the name of the company. By creating the *'tickerIndex'* we are restricting the code to toggle between the sheets in the workbook multiple times. In the refactored VBA script, the code is optimized by storing the values within arrays and calling them back at the end to print the results.
 
-The success of refactoring a code can be determined by the time it takes to execute the code. The following 2 snapshots are from the original code execution.
+The success of refactoring a code can be determined by the time it takes to execute the code. The following 2 snapshots are from the original VBA script execution.
 
 ![Timer_2017](https://user-images.githubusercontent.com/84694664/125178609-c88d5300-e1b4-11eb-9b14-12a171223483.JPG)
 ![Timer_2018](https://user-images.githubusercontent.com/84694664/125178611-ca571680-e1b4-11eb-9f9d-00f37fd9b497.JPG)
 
-The following 2 snapshots are from the refactored code which definitely is faster than the original code execution.
+The following 2 snapshots are from the refactored VBA script results which definitely is faster than the original VBA script execution.
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/84694664/125178613-cd520700-e1b4-11eb-901b-32ad2b07bbbb.JPG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/84694664/125178615-ce833400-e1b4-11eb-9b13-9a0fe8120cff.JPG)
