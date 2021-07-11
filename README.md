@@ -21,7 +21,7 @@ The following 2 snapshots are from the refactored code which definitely is faste
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/84694664/125178615-ce833400-e1b4-11eb-9b13-9a0fe8120cff.JPG)
 
 ## Results
-The following table is the summary of the stock returns at the end of the year 2017. Almost all the companies had a positive return except *'TERP'*. The companies which did exceedingly well were - *'DQ', 'ENPH', 'SEDG'* and *'FSLR*.
+The following table is the summary of the stock returns at the end of the year 2017. Almost all the companies had a positive return except *'TERP'*. The companies which did exceedingly well were - *'DQ', 'ENPH', 'SEDG'* and *'FSLR'*.
 
 ![2017_Results](https://user-images.githubusercontent.com/84694664/125178600-b3b0bf80-e1b4-11eb-8df3-a6a1d8796fe1.png)
 
