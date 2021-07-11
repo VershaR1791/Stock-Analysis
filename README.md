@@ -29,7 +29,7 @@ The following table is the summary of the stock returns at the end of the year 2
 
 ![2018_Results](https://user-images.githubusercontent.com/84694664/125178603-b7444680-e1b4-11eb-99af-54b6bf9ed523.png)
 
-Overall **'ENPH'** performed well in both the years and Steve should recommend his parents to invest in their stocks. In order to diversify his parents funds he can also ask his parents to invest in low risk stocks which overall have a positive return such as *'DQ', 'SEDG', 'FSLR'* and *'RUN'*.
+Overall **'ENPH'** performed well in both the years and Steve should recommend his parents to invest in ENPH's stocks. In order to diversify his parents funds he can also ask his parents to invest in low risk stocks which overall have a positive return such as *'DQ', 'SEDG', 'FSLR'* and *'RUN'*.
 
 ### Advantages or disadvantages of refactoring code
 - The most obvious advantage of refactoring code is that it makes it more efficient by making the code run faster and use less memory. It also improves the logic of the code.
@@ -37,4 +37,7 @@ Overall **'ENPH'** performed well in both the years and Steve should recommend h
 - The disdavantages includes that one can not add any features or functionalities mainly due to budget or time contraints in a real world.
 - There could also be risk in refactoring a code when the application is too big.
 
-### Application of pros and cons apply to refactoring the original VBA script
+### Advantages and disadvantages of the original and refactored VBA script
+- The time taken to run the original script is more than refactored code.
+- The script length is shorter in the original VBA script in comparison to the refactored code.
+- The result doesn't change with the refactored code. For eg. it would have been helpful to add more features or functionalities such as YoY improvement in the return for each company.
