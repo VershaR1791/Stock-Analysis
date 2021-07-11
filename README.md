@@ -1,7 +1,7 @@
 # Stock-Analysis
 Performing analysis on Stock data to find top performing companies by refactoring the code
 ## Overview of Project
-Steve is a financial analyst who has started a new role in a finance company and would like to analyze stock data for different alternative energy companies. He would want to analyze the data to recommend to his parents on which company's stocks they should invest in based on their past performance. The analysis will include refactoring the exisiting code to make it more efficient. 
+Steve is a financial analyst who has started a new role in a finance company and would like to analyze stock data for different alternative energy companies. He would want to analyze the data to recommend to his parents on which company's stocks they should invest in, based on the past performance. The analysis will include refactoring the exisiting code to make it more efficient. 
 ### Purpose
 The purpose of this analysis is to automate the large excel data through the ease of a click of a button, for Steve to be able to review the return for all the stocks. The data available is for different alternative energy companies and corresponding information regarding the price and volume their stocks closed at. This analysis will -
 - help summarize the return and total daily volume from the company stocks for years 2017 and 2018
