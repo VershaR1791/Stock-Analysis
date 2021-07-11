@@ -1,14 +1,15 @@
-#Stock-Analysis
+# Stock-Analysis
 Performing analysis on Stock data to find top performing companies by refactoring the code
-##Overview of Project
+## Overview of Project
 Steve is a financial analyst who has started a new role in a finance company and would like to analyze stock data for different alternative energy companies. He would want to analyze the data to recommend to his parents on which company's stocks they should invest in based on their past performance. The analysis will include refactoring the exisitg code. 
-###Purpose
+### Purpose
 The purpose of this analysis is to automate the large excel data through the ease of a click of a button, for Steve to be able to review the return for all the stocks. The data available is for different alternative energy companies and corresponding information regarding the price and volume their stocks closed at. This analysis will -
 - help summarize the return and total daily volume from the company stocks for years 2017 and 2018
 - determine the time to execute the code before and after refactoring the code.
 
-##Analysis
-##Results
+## Analysis
+
+## Results
 
 ![2017_Results](https://user-images.githubusercontent.com/84694664/125178600-b3b0bf80-e1b4-11eb-8df3-a6a1d8796fe1.png)
 ![2018_Results](https://user-images.githubusercontent.com/84694664/125178603-b7444680-e1b4-11eb-99af-54b6bf9ed523.png)
@@ -20,8 +21,7 @@ The purpose of this analysis is to automate the large excel data through the eas
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/84694664/125178613-cd520700-e1b4-11eb-901b-32ad2b07bbbb.JPG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/84694664/125178615-ce833400-e1b4-11eb-9b13-9a0fe8120cff.JPG)
 
-##Summary
 
-###Advantages or disadvantages of refactoring code
+### Advantages or disadvantages of refactoring code
 
-###Application of pros and cons apply to refactoring the original VBA script
+### Application of pros and cons apply to refactoring the original VBA script
