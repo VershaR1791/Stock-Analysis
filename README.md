@@ -8,9 +8,10 @@ The purpose of this analysis is to automate the large excel data through the eas
 - determine the time to execute the code before and after refactoring the code.
 
 ## Analysis
+The refactoring code includes creating a tickerIndex to loop through all the list of companies repeatedly without specifying the name of the company. By creating the tickerIndex we are restricting the code to toggle between the sheets in the workbook multiple times. In the refactored code the code is optimized by storing the values within arrays and calling them back at the end to print the results.
 
 ## Results
-
+The following table is the summary of the stock returns at the end of the year 2017. Almost all the companies had a positive return except *'TERP'*. The companies which did exceedingly well were - *'DQ', 'ENPH'* and *'FSLR*.
 ![2017_Results](https://user-images.githubusercontent.com/84694664/125178600-b3b0bf80-e1b4-11eb-8df3-a6a1d8796fe1.png)
 ![2018_Results](https://user-images.githubusercontent.com/84694664/125178603-b7444680-e1b4-11eb-99af-54b6bf9ed523.png)
 
