@@ -15,10 +15,12 @@ The purpose of this analysis is to automate the large excel data through the eas
 ![2018_Results](https://user-images.githubusercontent.com/84694664/125178603-b7444680-e1b4-11eb-99af-54b6bf9ed523.png)
 
 The success of refactoring a code can be determined by the time it takes to execute the code. The following 2 snapshots are from the original code execution.
+
 ![Timer_2017](https://user-images.githubusercontent.com/84694664/125178609-c88d5300-e1b4-11eb-9b14-12a171223483.JPG)
 ![Timer_2018](https://user-images.githubusercontent.com/84694664/125178611-ca571680-e1b4-11eb-9f9d-00f37fd9b497.JPG)
 
 The following 2 snapshots are from the refactored code which definitely is faster than the original code execution.
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/84694664/125178613-cd520700-e1b4-11eb-901b-32ad2b07bbbb.JPG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/84694664/125178615-ce833400-e1b4-11eb-9b13-9a0fe8120cff.JPG)
 
