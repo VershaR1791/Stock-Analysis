@@ -22,9 +22,11 @@ The following 2 snapshots are from the refactored code which definitely is faste
 
 ## Results
 The following table is the summary of the stock returns at the end of the year 2017. Almost all the companies had a positive return except *'TERP'*. The companies which did exceedingly well were - *'DQ', 'ENPH', 'SEDG'* and *'FSLR*.
+
 ![2017_Results](https://user-images.githubusercontent.com/84694664/125178600-b3b0bf80-e1b4-11eb-8df3-a6a1d8796fe1.png)
 
 The following table is the summary of the stock returns at the end of the year 2018. This seems to have been a difficult year for almost all companies since their returns were negative. The only 2 companies which did reasonably well were *'ENPH'* and *'RUN'*
+
 ![2018_Results](https://user-images.githubusercontent.com/84694664/125178603-b7444680-e1b4-11eb-99af-54b6bf9ed523.png)
 
 Overall **'ENPH'** performed well in both the years and Steve should recommend his parents to invest in their stocks. In order to diversify his parents funds he can also ask his parents to invest in low risk stocks which overall have a positive return such as *'DQ', 'SEDG', 'FSLR'* and *'RUN'*.
