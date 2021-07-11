@@ -25,7 +25,7 @@ The following table is the summary of the stock returns at the end of the year 2
 
 ![2017_Results](https://user-images.githubusercontent.com/84694664/125178600-b3b0bf80-e1b4-11eb-8df3-a6a1d8796fe1.png)
 
-The following table is the summary of the stock returns at the end of the year 2018. This seems to have been a difficult year for almost all companies since their returns were negative. The only 2 companies which did reasonably well were *'ENPH'* and *'RUN'*. It's to be noted that *'RUN'* had an increased stock return inspite of a lowered return for other companies.
+The following table is the summary of the stock returns at the end of the year 2018. This seems to have been a difficult year for almost all companies since their returns were negative. The only 2 companies which did reasonably well were *'ENPH'* and *'RUN'*. It has to be noted that *'RUN'* had an increased stock return inspite of a lowered return for other companies.
 
 ![2018_Results](https://user-images.githubusercontent.com/84694664/125178603-b7444680-e1b4-11eb-99af-54b6bf9ed523.png)
 
